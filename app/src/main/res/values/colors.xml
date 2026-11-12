@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blanco">#FFFFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="primario">#6200EE</color>
+    <color name="primario_oscuro">#3700B3</color>
+    <color name="fondo">#FFFFFF</color>
+    <color name="texto">#000000</color>
+
+    <color name="signo_aries">#FFE53935</color>
+    <color name="signo_tauro">#FF43A047</color>
+    <color name="signo_geminis">#FFFDD835</color>
+    <color name="signo_cancer">#FF78909C</color>
+    <color name="signo_leo">#FFFFA000</color>
+    <color name="signo_virgo">#FF8D6E63</color>
+    <color name="signo_libra">#FFEC407A</color>
+    <color name="signo_escorpio">#FF6A1B9A</color>
+    <color name="signo_sagitario">#FFFB8C00</color>
+    <color name="signo_capricornio">#FF5D4037</color>
+    <color name="signo_acuario">#FF1E88E5</color>
+    <color name="signo_piscis">#FF00ACC1</color>
+</resources>

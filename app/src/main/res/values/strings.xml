@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">MyZodiac</string>
+    <string name="fecha_nacimiento">Fecha de nacimiento:</string>
+    <string name="hint_fecha">dd/mm/yyyy</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="volver">Volver</string>
+    <string name="tienes_anios">Tienes %1$d años</string>
+    <string name="eres_signo">ERES %1$s</string>
+
+    <string name="error_vacio">Debes introducir tu fecha de nacimiento</string>
+    <string name="error_formato">Fecha no válida. Usa el formato dd/mm/yyyy</string>
+    <string name="error_futura">La fecha de nacimiento no puede ser futura</string>
+
+    <string-array name="signos">
+        <item>Capricornio</item>
+        <item>Acuario</item>
+        <item>Piscis</item>
+        <item>Aries</item>
+        <item>Tauro</item>
+        <item>Géminis</item>
+        <item>Cáncer</item>
+        <item>Leo</item>
+        <item>Virgo</item>
+        <item>Libra</item>
+        <item>Escorpio</item>
+        <item>Sagitario</item>
+    </string-array>
+</resources>

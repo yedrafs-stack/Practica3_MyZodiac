@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.MyZodiac" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primario</item>
+        <item name="colorPrimaryDark">@color/primario_oscuro</item>
+        <item name="colorOnPrimary">@color/blanco</item>
+        <item name="android:windowBackground">@color/fondo</item>
+        <item name="android:statusBarColor">@color/primario_oscuro</item>
+    </style>
+
+    <style name="Theme.MyZodiac" parent="Base.Theme.MyZodiac" />
+
+    <style name="EstiloTitulo" parent="TextAppearance.Material3.HeadlineSmall">
+        <item name="android:textColor">@color/texto</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="EstiloCampo" parent="Widget.AppCompat.EditText">
+        <item name="android:textColor">@color/texto</item>
+        <item name="android:textColorHint">@color/primario</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:inputType">date</item>
+        <item name="android:maxLength">10</item>
+    </style>
+
+    <style name="EstiloBoton" parent="Widget.Material3.Button">
+        <item name="backgroundTint">@color/primario</item>
+        <item name="android:textColor">@color/blanco</item>
+        <item name="android:layout_marginTop">16dp</item>
+    </style>
+</resources>
